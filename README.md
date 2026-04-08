@@ -1,15 +1,15 @@
 <img width="1983" height="793" alt="ChatGPT Image 8 de abr  de 2026, 00_12_17" src="https://github.com/user-attachments/assets/cf619187-bca1-4610-9ceb-df39a3b3bfee" />
 
-## Hi there 👋
-My name is José Suzuki, i am a junior developer Currently pursuing a postgraduate degree in Web Development.
-<p>check out my repositorys:</p>
+## Hi there 👋<br>
+My name is José Suzuki, I'm from Brazil. I hold a Technologist degree in Systems Analysis and Development and I'm an aspiring junior developer looking to break into the tech industry. I'm currently pursuing a specialization course in Web Development.
+<p>Check out my repositories:</p>
 
-## Study projects
+## Currently Learning
   * [HTML Mozilla Exercises](https://github.com/Zezinho11/exercise) (HTML, JS, CSS)
-  * [Post graduations class exercise using SOLID method](https://github.com/Zezinho11/Aula28-03) (JAVA)
+  * [Post-graduation class exercise using SOLID principles](https://github.com/Zezinho11/Aula28-03) (JAVA)
 
-## Future Project
-  * [Red Fox Gaming Hub](https://github.com/Bryan-OLima/redFoxRacing) (ReactTs/Vite)
+## Hobby Projects/Side quests
+  * [Red Fox Gaming Hub](https://github.com/Bryan-OLima/redFoxRacing) (React)
 
 ## Language skills
 
