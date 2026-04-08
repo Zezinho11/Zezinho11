@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-My name is José Suzuki, I'm from Brazil. I hold a Technologist degree in Systems Analysis and Development and I'm an aspiring junior developer looking to break into the tech industry. I'm currently pursuing a specialization course in Web Development.
+My name is José Suzuki, a brasilian junior developer with a degree in Systems Analysis and Development. Currently pursuing a Web Development specialization and looking to break into the tech industry.
 
 <p>Check out my repositories:</p>
 
