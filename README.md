@@ -1,7 +1,9 @@
 <img width="1983" height="793" alt="ChatGPT Image 8 de abr  de 2026, 00_12_17" src="https://github.com/user-attachments/assets/cf619187-bca1-4610-9ceb-df39a3b3bfee" />
 
-## Hi there 👋<br>
+## Hi there 👋
+
 My name is José Suzuki, I'm from Brazil. I hold a Technologist degree in Systems Analysis and Development and I'm an aspiring junior developer looking to break into the tech industry. I'm currently pursuing a specialization course in Web Development.
+
 <p>Check out my repositories:</p>
 
 ## Currently Learning
@@ -11,8 +13,10 @@ My name is José Suzuki, I'm from Brazil. I hold a Technologist degree in System
 ## Hobby Projects/Side quests
   * [Red Fox Gaming Hub](https://github.com/Bryan-OLima/redFoxRacing) (React)
 
-## Language skills
+## GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Zezinho11&theme=dark&hide_border=true)
 
+## Language skills
 <table>
   <tr>
     <td>
@@ -23,3 +27,7 @@ My name is José Suzuki, I'm from Brazil. I hold a Technologist degree in System
     </td>
   </tr>
 </table>
+
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-carlos-suzuki-brandine-44b4a4186/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcbrandine@gmail.com)
