@@ -1,7 +1,6 @@
-
-<img width="1376" height="768" alt="Gemini_Generated_Image_w3qs2pw3qs2pw3qs" src="https://github.com/user-attachments/assets/354c4411-7600-4d8d-b07a-6bbada1d1eba" />
-
+<img width="1983" height="793" alt="ChatGPT Image 8 de abr  de 2026, 00_12_17" src="https://github.com/user-attachments/assets/cf619187-bca1-4610-9ceb-df39a3b3bfee" />
 ## Hi there 👋
+
 
 <!--
 **Zezinho11/Zezinho11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
