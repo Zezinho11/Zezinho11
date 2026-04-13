@@ -12,6 +12,7 @@ My name is José Suzuki, a brasilian junior developer with a degree in Systems A
 
 ## Hobby Projects/Side quests
   * [Red Fox Gaming Hub](https://github.com/Bryan-OLima/redFoxRacing) (React)
+  * [Pitloop]
 
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zezinho11&theme=dark&hide_border=true&locale=pt_BR&card_width=700&background=0D1117&stroke=5100FF72&ring=EB0000&fire=EB7200&currStreakNum=EB7200&sideNums=EB9900&currStreakLabel=EBEBEB&sideLabels=EBE9E9&dates=EBEBEB&excludeDaysLabel=EBEBEB)](https://git.io/streak-stats)
