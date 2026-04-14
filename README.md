@@ -9,6 +9,7 @@ My name is José Suzuki, a brasilian junior developer with a degree in Systems A
 ## Currently Learning
   * [HTML Mozilla Exercises](https://github.com/Zezinho11/exercise) (HTML, JS, CSS)
   * [Post-graduation class exercise using SOLID principles](https://github.com/Zezinho11/Aula28-03) (JAVA)
+  * [CLEAN ARCHITECTURE CLASS EXERRCISE] (https://github.com/Zezinho11/aula110426). (JAVA)
 
 ## Hobby Projects/Side quests
   * [Red Fox Gaming Hub](https://github.com/Bryan-OLima/redFoxRacing) (React)
