@@ -13,6 +13,7 @@ My name is José Suzuki, a brasilian junior developer with a degree in Systems A
 
 ## Hobby Projects/Side quests
   * [Red Fox Gaming Hub](https://github.com/Bryan-OLima/redFoxRacing) (React)
+  * [Le Mans Ultimate - Open source overlay] (https://github.com/Zezinho11/LMU-Overlay) (C#)
 
 ## GitHub Stats
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Zezinho11&theme=tokyonight&locale=pt_BR&card_width=700&background=0D1117" alt="GitHub Streak" /></a>
